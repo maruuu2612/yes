@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(251, 251, 222);
+}
+
+.image {
+    width: 500px;      /* or whatever width you want */
+    height: auto;
+    display: block;
+    margin: 0 auto;    /* this centers it horizontally */
+    padding-top: 0px;
+    border: 10px solid pink;
+  }
+  
